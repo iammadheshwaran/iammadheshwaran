@@ -1,7 +1,5 @@
 <h1 align="center"> Hey 👋, I'm Madheshwaran</h1>
 
----
-
 ## 🚀 About Me
 
 - 🧠 Strong foundation in AI, Web Development, and User-Centeric Design
